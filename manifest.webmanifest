@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "CentralCourt | Beach Volley Performance",
+  "short_name": "CentralCourt",
+  "description": "Scouting, estadísticas e informes y planificación del entrenamiento de vóley playa",
+  "lang": "es",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17262a",
+  "theme_color": "#17262a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
